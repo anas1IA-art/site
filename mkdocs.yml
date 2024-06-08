@@ -3,8 +3,8 @@ site_name: Zero to Mastery Learn Machine Learning and Deep Learning Concepts
 site_url: 
 site_description: Learn important machine learning concepts hands-on by writing PyTorch code.
 
-repo_url: https://github.com/JamorMoussa/ML-DL-Concepts
-repo_name: JamorMoussa/ML-DL-Concepts
+repo_url:https://github.com/anas1IA-art/site
+repo_name: anas1IA-art/ML-DL-Concepts
 
 docs_dir: docs
 
@@ -36,82 +36,10 @@ plugins:
 
 edit_uri: ""
 
-site_author: Moussa JAMOR
+site_author: ANAS NOURI
 
 nav:
-  # - Home: 
-  #  - Moussa Jamor: 'index.md'
-  #  - 'home/extra_activities.md'
-
-  - Home:
-    - 'index.md'
-
-####################################################################################
-
-  # - Machine Learning:
-  #   - Home: 'machine_learning/index.md'
-
-
-####################################################################################
-  
-  - Deep Learning:
-    - Home: 'deep_learning/index.md'
-    - Graph Neural Networks:
-      - Introduction: 'deep_learning/gnn/index.md'
-      - GCN:
-        - 'deep_learning/gnn/Introduction to Graph Neural Network with Pytorch.ipynb'
-
-    - Sequence Models:
-      - deep_learning/seq_models/Seqeunce-Models-Specialization-with-Andrew-Ng.ipynb
-    
-    - AutoEncoders:
-      - deep_learning/auto_encoders/AutoEncoders-Architecture-In-DeepLearning.ipynb
-
-    - Computer Vision:
-      - 'computer_vision/index.md'
-      - Classic Problems: 
-        - 'computer_vision/classic_problems/Classification_MNIST_With_Neural_Networks.ipynb'
-  
-####################################################################################
-
-  - Large Language Models:
-    - Home: 'llms/index.md'
-    - 'llms/Build_GPT_From_Scratch.ipynb'
-
-####################################################################################
-
-
-  # - Natural Language Processing:
-  #   - Home: 'nlp/index.md'
-  
-
-####################################################################################  
-
-
-  
-
-####################################################################################
-
-  # - Data Engineering: 
-  #   - Home: 'data_engineering/index.md'
-  
-
-####################################################################################
-  
-  - Papers: 
-    - Home: 'papers/index.md'
-    - Graph Neural Networks:
-      - 'papers/graph_conv_net/graph_conv_net.ipynb'
-    - Optimzation Methods:
-      - 'papers/opt_methods/index.md'
-      - 'papers/opt_methods/adadelta.ipynb'
-
-####################################################################################
-
-  - Projects:
-    - Home: 'projects/index.md'
-    - NeuraNet: 'projects/neura_net/index.md'
-
+  - Home: 'index.md'
 
 extra_javascript:
   - javascripts/mathjax.js
