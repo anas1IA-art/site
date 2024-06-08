@@ -3,7 +3,7 @@ site_name: Zero to Mastery Learn Machine Learning and Deep Learning Concepts
 site_url: 
 site_description: Learn important machine learning concepts hands-on by writing PyTorch code.
 
-repo_url:https://github.com/anas1IA-art/site
+repo_url: https://github.com/anas1IA-art/site
 repo_name: anas1IA-art/ML-DL-Concepts
 
 docs_dir: docs
