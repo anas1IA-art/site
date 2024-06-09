@@ -46,10 +46,10 @@ nav:
 ######################################################################################
 
 
-- Large Language Models:
-  - Home: 'llms/index.md'
-  - 'llms/Attention Is All You Need.ipynb'
-  - 'llms/Build_GPT_From_Scratch.ipynb'
+  - Large Language Models:
+    - Home: 'llms/index.md'
+    - 'llms/Attention Is All You Need.ipynb'
+    - 'llms/Build_GPT_From_Scratch.ipynb'
 
 
 ########################################################################################
