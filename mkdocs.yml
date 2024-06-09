@@ -41,6 +41,17 @@ site_author: ANAS NOURI
 nav:
   - Home: 'index.md'
 
+
+
+######################################################################################
+- Large Language Models:
+    - Home: 'llms/index.md'
+    - 'llms/Attention Is All You Need.ipynb'
+    - 'llms/Build_GPT_From_Scratch.ipynb'
+
+########################################################################################
+
+
 extra_javascript:
   - javascripts/mathjax.js
   - https://polyfill.io/v3/polyfill.min.js?features=es6
