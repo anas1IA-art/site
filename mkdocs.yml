@@ -49,7 +49,7 @@ nav:
   - Large Language Models:
     - Home: 'llms/index.md'
     # - 'llms/Attention Is All You Need.ipynb'
-    - 'llms/Build_GPT_From_Scratch.ipynb'
+    - 'llms/Build_chat_gpt_from_scratch.ipynb'
 
 
 ########################################################################################
