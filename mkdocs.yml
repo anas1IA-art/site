@@ -53,6 +53,9 @@ nav:
 
 
 ########################################################################################
+  - computer vision:
+
+  - 'computer_vison/Computer_vison_image_classification.ipyb'
 
 
 extra_javascript:
