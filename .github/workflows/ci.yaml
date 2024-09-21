@@ -16,9 +16,9 @@ jobs:
           python-version: 3.11.x
       - uses: actions/cache@v2
         with:
-          key: ${{ github.ref }}
+          key: ${{ github.ref }}ff
           path: .cache
       - run: pip install mkdocs-material
       - run: pip install mkdocs-jupyter
       - run: pip install "mkdocs-material[imaging]"
-      - run: mkdocs gh-deploy --forces
+      - run: mkdocs gh-deploy --forcef
